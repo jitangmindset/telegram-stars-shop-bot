@@ -1,0 +1,2 @@
+"""Telegram Stars shop bot."""
+
